@@ -10,8 +10,8 @@ For Sentiment-Classification, use RNN, RNN with entire sequence, LSTM, Stacked L
 Python
 
 ### Authors
-Yichen Zhang (Professor)
-Li-Ci Chuang
+* Yichen Zhang (Professor)
+* Li-Ci Chuang
 
 ### Libraries
 * matplotlib.pyplot
